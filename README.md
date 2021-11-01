@@ -1,6 +1,6 @@
 ## Oiii eu sou a Lia França, sou desenevolvedora de Front-End!
   <div style="display: flex" align="center">
-      <img align="right" alt="Lia-pic" height="250" style="border-radius:50px;" src="https://media.discordapp.net/attachments/385216320205094915/904838156002660413/lia-franca.gif?width=559&height=559">
+      <img align="right" alt="Lia-pic" height="400" style="border-radius:50px;" src="https://media.discordapp.net/attachments/385216320205094915/904838156002660413/lia-franca.gif?width=559&height=559">
   </div>
 <div align="center">
   <a href="https://github.com/Lia-Franca">
