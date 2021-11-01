@@ -2,7 +2,7 @@
   <div style="display: flex" align="center">
       <img align="right" alt="Lia-pic" height="350" style="border-radius:50px;" src="https://media.discordapp.net/attachments/385216320205094915/904838156002660413/lia-franca.gif?width=559&height=559">
   </div>
-<div align="center">
+<div align="left">
   <a href="https://github.com/Lia-Franca">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lia-franca&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lia-franca&layout=compact&langs_count=7&theme=dracula"/>
