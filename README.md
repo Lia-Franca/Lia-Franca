@@ -8,7 +8,7 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lia-franca&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   <br>
-<div><br>
+<div align="center"><br>
   <img align="center" alt="Lia-Js" height="50" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lia-Ts" height="50" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Lia-Angular" height="50" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
