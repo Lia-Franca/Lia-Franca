@@ -18,8 +18,6 @@
   <img align="center" alt="Lia-Git" height="50" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
   <img align="center" alt="Lia-Github" height="50" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
 </div>
-  
-  ##
  
 <div align="center"> 
   <a href = "mailto:liajonasfranca@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
